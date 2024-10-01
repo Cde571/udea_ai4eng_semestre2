@@ -14,6 +14,7 @@ Este repositorio contiene el código y los recursos para el proyecto de AI4ENG d
 - `02 - preprocesado.ipynb`
 - `03 - modelo con preprocesado de tal forma y SVM.ipynb`
 - `04 - modelo con preprocesado de otra forma y Random`
+- `99 - modelo solución.ipynb`
 - `train.csv`: Archivo de entrenamiento.
 - `test.csv`: Archivo de prueba.
 - `submission_example.csv`: Ejemplo de archivo de envío.
