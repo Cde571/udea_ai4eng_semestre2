@@ -18,3 +18,4 @@ Este repositorio contiene el código y los recursos para el proyecto de AI4ENG d
 - `train.csv`: Archivo de entrenamiento.
 - `test.csv`: Archivo de prueba.
 - `submission_example.csv`: Ejemplo de archivo de envío.
+Link video: https://youtu.be/FQn91D3oAJo
